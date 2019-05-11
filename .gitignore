@@ -12,3 +12,26 @@ Thumbs.db
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+### AUTOTRACE ###
+
+## Configure files
+# $ ./configure
+Makefile
+autotrace-config
+autotrace.pc
+config.h
+config.log
+config.status
+libtool
+stamp-h1
+
+## Build files
+# $ make
+input-bmp.lo
+input-bmp.o
+input-pnm.lo
+input-pnm.o
+input-tga.lo
+input-tga.o
+stamp-h
