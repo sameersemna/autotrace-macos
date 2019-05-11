@@ -29,6 +29,12 @@
 #include "bitmap.h"
 #include "message.h"
 #include "xstd.h"
+
+// Additional includes for MacOS
+#include <pnglibconf.h>
+#include "inc/libpng/pngpriv.h"
+#include "inc/libpng/pngstruct.h"
+
 #include <png.h>
 #include "input-png.h"
 
