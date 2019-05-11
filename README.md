@@ -1,3 +1,6 @@
+Autotrace 0.31 with minor changes for MacOSX build
+==================================================
+
 Installation MacOS
 ==================
 
